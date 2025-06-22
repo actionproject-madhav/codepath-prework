@@ -12,7 +12,7 @@ Codepath Advanced Web Developement Course Pre-requisite submission:
 -Supabase Database
 
 # Video Demo
-[Watch demo video](src/assets/demo.webm)
+[Watch demo video](https://www.youtube.com/watch?v=1RvILfKkzS4)
 
 
 

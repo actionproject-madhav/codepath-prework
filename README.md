@@ -1,6 +1,18 @@
 # React + Vite
 Codepath Advanced Web Developement Course Pre-requisite submission:
-<img width="1414" alt="Screenshot 2025-06-22 at 12 17 15 PM" src="https://github.com/user-attachments/assets/dc44f638-a681-477b-9b97-7bfe8de023eb" />
+
+ # Features:
+-Keep track of all your favorite content creators in one place
+-Get their URL, Image, Description and store it in one place
+-Ability to add new creators, update/delete the existing
+-Smooth user interface
+
+# Tools Used:
+-React JS, HTML, CSS
+-Supabase Database
+
+# Video Demo
+
 
 
 

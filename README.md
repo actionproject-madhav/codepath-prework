@@ -1,4 +1,8 @@
 # React + Vite
+Codepath Advanced Web Developement Course Pre-requisite submission:
+<img width="1414" alt="Screenshot 2025-06-22 at 12 17 15 PM" src="https://github.com/user-attachments/assets/dc44f638-a681-477b-9b97-7bfe8de023eb" />
+
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 

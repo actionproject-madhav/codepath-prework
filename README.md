@@ -11,7 +11,7 @@ Codepath Advanced Web Developement Course Pre-requisite submission:
 -React JS, HTML, CSS
 -Supabase Database
 
-# Video Demo
+# Video Demo (Click on the image)
 
 [![Watch demo video](src/assets/demo.png)](https://www.youtube.com/watch?v=1RvILfKkzS4)
 

@@ -12,9 +12,8 @@ Codepath Advanced Web Developement Course Pre-requisite submission:
 -Supabase Database
 
 # Video Demo
-[Watch demo video](https://www.youtube.com/watch?v=1RvILfKkzS4)
 
-
+[![Watch demo video](src/assets/demo.png)](https://www.youtube.com/watch?v=1RvILfKkzS4)
 
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
